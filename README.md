@@ -2,7 +2,7 @@
 
 Code for 'LabelFool: A Trick In The Label Space' (IJCNN 2022).
 
-[Paper](PlaceHold).
+[Paper (The proceedings of IJCNN2022 have not yet been published)](Place Hold).
 
 ## Recommended Environment
 * Python 3.7
