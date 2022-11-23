@@ -9,9 +9,6 @@ Code for 'LabelFool: A Trick In The Label Space' (IJCNN 2022).
 * Cuda 10.1
 * PyTorch 0.4
 
-## Prerequisites
-* Install dependencies: `pip3 install -r requirements.txt`.
-
 ## Document Description
 
 ### ./Files
